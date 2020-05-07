@@ -22,5 +22,11 @@
     "psr-4": {
       "Mageplaza\\Gdpr\\": ""
     }
+  },
+  "repositories": {
+    "magento_please_work": {
+      "type": "git",
+      "url": "git@github.com:GMAxel/wies_magento"
+    }
   }
 }
